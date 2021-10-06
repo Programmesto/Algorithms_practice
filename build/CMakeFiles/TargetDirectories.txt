@@ -1,0 +1,5 @@
+E:/учеба/Algorithms_practice/Algorithms_practice/build/CMakeFiles/Task_1_1.dir
+E:/учеба/Algorithms_practice/Algorithms_practice/build/CMakeFiles/Task_1_2.dir
+E:/учеба/Algorithms_practice/Algorithms_practice/build/CMakeFiles/Task_1_3.dir
+E:/учеба/Algorithms_practice/Algorithms_practice/build/CMakeFiles/ALL_BUILD.dir
+E:/учеба/Algorithms_practice/Algorithms_practice/build/CMakeFiles/ZERO_CHECK.dir

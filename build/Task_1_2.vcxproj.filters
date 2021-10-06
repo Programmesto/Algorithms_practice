@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\учеба\Algorithms_practice\Algorithms_practice\Task_1_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\учеба\Algorithms_practice\Algorithms_practice\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{876EDC0D-F279-3E6C-B63D-9B69715F5F8D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
