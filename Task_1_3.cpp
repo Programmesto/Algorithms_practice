@@ -1,28 +1,27 @@
 #include <iostream>
 #include <string>
-#include <math.h>
+#include <cmath>
 
 std::string normalizeText(std::string text)
 {
     std::string normString;
-    for (auto ch : text)
+    for (size_t i = 0; i < text.length(); i++)
     {
-        if (isalpha(ch))
+        if (isalpha(text[i]))
         {
-            normString.push_back(tolower(ch));
+            normString.push_back(tolower(text[i]));
         }
     }
+    
     return normString;
 }
 struct Shape
 {
-    int col = 0;
-    int rows = 0;
-    void swap()
-    {
-        int t = rows;
-        rows = col;
-        col = t;
+    int col;
+    int rows;
+    Shape() {
+        col = 0;
+        rows = 0;
     }
 };
 Shape findShape(std::string text)
@@ -67,7 +66,6 @@ std::string encryptText(std::string text, Shape &shape)
 
     std::cout << "encrypted text:\n"
               << encryptedText << "\n";
-    shape.swap();
     return encryptedText;
 }
 

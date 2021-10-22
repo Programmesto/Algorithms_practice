@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/Users/student07/Documents/Algorithms_practice/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -mmacosx-version-min=11.2 -o CMakeFiles/Task_1_1.dir/Task_1_1.cpp.o -c /Users/student07/Documents/Algorithms_practice/Task_1_1.cpp",
+  "file": "/Users/student07/Documents/Algorithms_practice/Task_1_1.cpp"
+},
+{
+  "directory": "/Users/student07/Documents/Algorithms_practice/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -mmacosx-version-min=11.2 -o CMakeFiles/Task_1_2.dir/Task_1_2.cpp.o -c /Users/student07/Documents/Algorithms_practice/Task_1_2.cpp",
+  "file": "/Users/student07/Documents/Algorithms_practice/Task_1_2.cpp"
+},
+{
+  "directory": "/Users/student07/Documents/Algorithms_practice/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -mmacosx-version-min=11.2 -o CMakeFiles/Task_1_3.dir/Task_1_3.cpp.o -c /Users/student07/Documents/Algorithms_practice/Task_1_3.cpp",
+  "file": "/Users/student07/Documents/Algorithms_practice/Task_1_3.cpp"
+},
+{
+  "directory": "/Users/student07/Documents/Algorithms_practice/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.3.sdk -mmacosx-version-min=11.2 -o CMakeFiles/Task_1_4.dir/Task_1_4.cpp.o -c /Users/student07/Documents/Algorithms_practice/Task_1_4.cpp",
+  "file": "/Users/student07/Documents/Algorithms_practice/Task_1_4.cpp"
+}
+]

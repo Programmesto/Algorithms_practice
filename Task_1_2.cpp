@@ -7,12 +7,17 @@ bool isScreaming(std::string str) {
     bool hasLetter = false;
     for (int i = 0; i < str.length(); i++) {
         if (isalpha(str[i])) {
-            hasLetter = true;               //input string has at least one letter
+            hasLetter = true;
             if (islower(str[i]))
                 return false;
         }
     }
-    return true;
+    if (hasLetter) {
+        return true;
+    }
+    else {
+        return false;
+    }
 }
 bool isEmpty(std::string str) {
     for (int i = 0; i < str.length(); i++) {

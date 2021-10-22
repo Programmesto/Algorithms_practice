@@ -1,0 +1,83 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Task_1_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Task_1_1-Debug-406bd6f8db8d62aaddb4.json",
+					"name" : "Task_1_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Task_1_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Task_1_2-Debug-ddf4dacaf58bee81be95.json",
+					"name" : "Task_1_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Task_1_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Task_1_3-Debug-ecb49d03d62a74767cfe.json",
+					"name" : "Task_1_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Task_1_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Task_1_4-Debug-4f73d6274a6fa71e1944.json",
+					"name" : "Task_1_4",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/student07/Documents/Algorithms_practice/build",
+		"source" : "/Users/student07/Documents/Algorithms_practice"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
